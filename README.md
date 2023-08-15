@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Carlos </h1>
 
-<h3 align="center"> A passionate Software Engineer doing stuff for the web, Rustasian and game dev as a hobby xD</h3>
+<h3 align="center"> A passionate Software Engineer doing stuff for the web, Rustacean, and game dev as a hobby xD</h3>
 
 - 🔭 I’m currently working on frontend
 - 🌱 I’m currently exploring Rust language
