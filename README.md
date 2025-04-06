@@ -2,7 +2,7 @@
 
 <h3 align="center"> A passionate Software Engineer doing stuff for the web, Rustacean, and game dev as a hobby xD</h3>
 
-- 🔭 I’m currently working on frontend
+- 🔭 I’m currently working on Web Development
 - 🌱 I’m currently exploring Rust language
 - 📫 Reach me: <mail>cejl397@gmail.com</mail>
 
@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
   <a href="https://www.rust-lang.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> 
   </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
